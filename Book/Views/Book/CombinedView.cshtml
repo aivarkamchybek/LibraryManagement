@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Book.ViewModels.BookAuthorViewModel>
+
+<h2>Combined Book and Author View</h2>
+
+<style>
+
+    .table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        .table th, .table td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        .table th {
+            background-color: #f2f2f2;
+        }
+</style>
+<div class="btn-group" style="margin-bottom: 10px">
+    <a class="btn btn-primary rounded-pill" href="@Url.Action("Index", "Author")">All Authors</a>
+    <a class="btn btn-primary rounded-pill" href="@Url.Action("Index", "Book")" style="margin-left: 10px;">All Books</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>Title</th>
+            <th>Genre</th>
+            <th>Publish Date</th>
+            <th>Author ID</th>
+            <th>Author Name</th>
+            <th>Author Age</th>
+            <th>Author Country</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.Title</td>
+                <td>@item.Genre</td>
+                <td>@item.PublishDate.ToString("yyyy-MM-dd")</td>
+                <td>@item.AuthorId</td>
+                <td>@item.AuthorName</td>
+                <td>@item.AuthorAge</td>
+                <td>@item.AuthorCountry</td>
+            </tr>
+        }
+    </tbody>
+</table>

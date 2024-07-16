@@ -1,0 +1,14 @@
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Repository.dll.config
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Repository.dll
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Repository.pdb
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Domain.dll
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\EntityFramework.dll
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Domain.pdb
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\EntityFramework.xml
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Infrastr.15EFFBFE.Up2Date
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Repository.dll
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Repository.pdb

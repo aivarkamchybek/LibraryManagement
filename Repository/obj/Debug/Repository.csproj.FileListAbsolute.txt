@@ -1,0 +1,28 @@
+C:\Users\IC REPAIR\Downloads\Book\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\IC REPAIR\Downloads\Book\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\IC REPAIR\Downloads\Book\Repository\bin\Debug\Repository.dll.config
+C:\Users\IC REPAIR\Downloads\Book\Repository\bin\Debug\Repository.dll
+C:\Users\IC REPAIR\Downloads\Book\Repository\bin\Debug\Repository.pdb
+C:\Users\IC REPAIR\Downloads\Book\Repository\bin\Debug\Domain.dll
+C:\Users\IC REPAIR\Downloads\Book\Repository\bin\Debug\EntityFramework.dll
+C:\Users\IC REPAIR\Downloads\Book\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IC REPAIR\Downloads\Book\Repository\bin\Debug\Domain.pdb
+C:\Users\IC REPAIR\Downloads\Book\Repository\bin\Debug\EntityFramework.xml
+C:\Users\IC REPAIR\Downloads\Book\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IC REPAIR\Downloads\Book\Repository\obj\Debug\Repository.csproj.Up2Date
+C:\Users\IC REPAIR\Downloads\Book\Repository\obj\Debug\Repository.dll
+C:\Users\IC REPAIR\Downloads\Book\Repository\obj\Debug\Repository.pdb
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Repository.dll.config
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Repository.dll
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Repository.pdb
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Domain.dll
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\EntityFramework.dll
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\Domain.pdb
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\EntityFramework.xml
+C:\Users\12816\Downloads\Book\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Repository.csproj.Up2Date
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Repository.dll
+C:\Users\12816\Downloads\Book\Repository\obj\Debug\Repository.pdb
